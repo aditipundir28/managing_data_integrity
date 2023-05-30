@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "lib",
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "mssql.copyIncludeHeaders": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.executable.path": "\"D:\\2023 Final Submission\\Major project\\apache-maven-3.9.1-src.tar.gz\"",
+    "maven.view": "flat",
+}
